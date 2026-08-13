@@ -1,0 +1,36 @@
+id,type,description
+1,formatting,Avoid single-character variable names — they hurt readability
+2,performance,Cache repeated database lookups inside the request loop
+3,security,Never interpolate raw user input directly into SQL queries
+4,security,Do not hardcode sensitive credentials API keys or tokens in source files
+5,performance,Avoid quadratic nested loops when linear lookups with sets or hash maps can be used
+6,security,Escape or sanitize HTML output to prevent Cross-Site Scripting (XSS)
+7,architecture,Keep functions under 40 lines to follow the Single Responsibility Principle
+8,formatting,Do not use wildcard imports; explicitly import required symbols
+9,performance,Use bulk database insertions or batch transactions instead of single row inserts
+10,security,Do not pass untrusted shell commands to subprocess or system exec without validation
+11,bug,Ensure all opened file handles and network streams are closed using context managers
+12,performance,Avoid deep unmemoized recursion that can cause stack overflow or exponential time complexity
+13,architecture,Do not catch broad generic Exception without logging or re-raising
+14,security,Use cryptographically secure pseudo-random number generators for tokens and salts
+15,formatting,Maintain consistent snake_case for Python and camelCase for JavaScript functions
+16,performance,Avoid unnecessary memory copies by using slices or iterators on large collections
+17,security,Never disable TLS/SSL certificate verification in HTTP requests
+18,architecture,Separate data access logic from HTTP request controllers
+19,bug,Check for null, undefined, or None before accessing nested object properties
+20,performance,Use connection pooling for database clients rather than creating a connection per request
+21,security,Validate and constrain file upload paths to prevent path traversal attacks
+22,formatting,Avoid magic numbers; declare meaningful named constants
+23,architecture,Prefer composition over inheritance for extensible component architecture
+24,performance,Debounce or throttle frequent event handlers like scroll or resize
+25,security,Enforce rate limiting on authentication and password reset endpoints
+26,bug,Handle Promise rejections or async exceptions to prevent uncaught runtime crashes
+27,architecture,Do not mutate function arguments in-place; return new transformed immutable states
+28,formatting,Remove commented-out dead code and obsolete debug print statements before commit
+29,performance,Use appropriate data structures: O(1) hash maps vs O(n) linear array scans for frequent lookups
+30,security,Set secure HttpOnly and SameSite flags on sensitive session cookies
+31,bug,Check array bounds or list length before index access to prevent out-of-range panic
+32,architecture,Implement health check endpoints and structured JSON logging for observability
+33,performance,Leverage lazy loading and dynamic imports for non-critical modules
+34,security,Do not log raw passwords, PII, or full authorization headers
+35,formatting,Include docstrings or type hints for public library interfaces and exported APIs
