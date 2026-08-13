@@ -1,10 +1,10 @@
 # 🚀 Aura Code: The 24/7 Intelligent Code Reviewer
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer)
-[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![React 19](https://img.shields.io/badge/React-19.0-cyan.svg)](https://react.dev/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-teal.svg)](https://fastapi.tiangolo.com/)
+[![Live App on Vercel](https://img.shields.io/badge/Vercel-Live%20App-black?style=for-the-badge&logo=vercel)](https://intelligent-code-reviewer-app.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Public%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![React 19](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 > **An automated, always-on, multi-language intelligent code review engine powered by Neural ML Ensembles (AdaBoost + GradientBoosting), Abstract Syntax Tree (AST) static auditing, and grounded CSV historical learning.**
 
@@ -12,12 +12,14 @@
 
 ## 🌐 Live Application Links
 
-- **Production Web Application:** [https://intelligent-code-reviewer-app.vercel.app](https://intelligent-code-reviewer-app.vercel.app)
-- **GitHub Repository:** [https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer](https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer)
-- **Local Application Server:** `http://127.0.0.1:8000` (or `http://localhost:8000`)
-- **Interactive Swagger API Docs:** `http://127.0.0.1:8000/docs`
-- **ReDoc Schema Documentation:** `http://127.0.0.1:8000/redoc`
-- **Live Cloud Tunnel (Localtunnel):** `https://shaggy-lions-lead.loca.lt` *(Tunnel IP: `185.107.56.164`)*
+| Service | Access Link | Status |
+| :--- | :--- | :--- |
+| **🚀 Production Web App (Vercel)** | **[https://intelligent-code-reviewer-app.vercel.app](https://intelligent-code-reviewer-app.vercel.app)** | **ONLINE** |
+| **📦 GitHub Repository (Public)** | **[https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer](https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer)** | **PUBLIC** |
+| **⚡ Local Development Server** | **[http://127.0.0.1:8000](http://127.0.0.1:8000)** (or `http://localhost:8000`) | **LIVE** |
+| **📚 Interactive Swagger API Docs** | **[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)** | **LIVE** |
+| **📖 ReDoc Schema Documentation** | **[http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)** | **LIVE** |
+| **🌐 Public Cloud Tunnel (Localtunnel)** | **[https://shaggy-lions-lead.loca.lt](https://shaggy-lions-lead.loca.lt)** *(Password: `185.107.56.164`)* | **ONLINE** |
 
 ---
 
