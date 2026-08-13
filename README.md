@@ -1,6 +1,7 @@
 # 🚀 Aura Code: The 24/7 Intelligent Code Reviewer
 
 [![Live App on Vercel](https://img.shields.io/badge/Vercel-Live%20App-black?style=for-the-badge&logo=vercel)](https://intelligent-code-reviewer-app.vercel.app)
+[![Demo Video on Google Drive](https://img.shields.io/badge/Google%20Drive-3--Min%20Demo%20Video-FF4B4B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/13vsqE0BPn02u406ieot-aYZTWPttwGFe?usp=sharing)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Public%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![React 19](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -10,13 +11,14 @@
 
 ---
 
-## 🌐 Live Application Links
+## 🌐 Submission & Live Application Links
 
-| Service | Access Link | Status |
+| Resource / Service | Link | Status |
 | :--- | :--- | :--- |
 | **🚀 Production Web App (Vercel)** | **[https://intelligent-code-reviewer-app.vercel.app](https://intelligent-code-reviewer-app.vercel.app)** | **ONLINE** |
-| **📦 GitHub Repository (Public)** | **[https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer](https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer)** | **PUBLIC** |
-| **⚡ Local Development Server** | **[http://127.0.0.1:8000](http://127.0.0.1:8000)** (or `http://localhost:8000`) | **LIVE** |
+| **🎬 3-Minute Demo Video (Google Drive)** | **[Google Drive Video Folder](https://drive.google.com/drive/folders/13vsqE0BPn02u406ieot-aYZTWPttwGFe?usp=sharing)** | **PUBLIC** |
+| **📦 GitHub Repository (Public)** | **[github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer](https://github.com/ishitjainnimsuniversity-ai/intelligent-code-reviewer)** | **PUBLIC** |
+| **⚡ Local Development Server** | **[http://127.0.0.1:8000](http://127.0.0.1:8000)** (or `http://localhost:8000`) | **LIVE (Real-Time)** |
 | **📚 Interactive Swagger API Docs** | **[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)** | **LIVE** |
 | **📖 ReDoc Schema Documentation** | **[http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)** | **LIVE** |
 | **🌐 Public Cloud Tunnel (Localtunnel)** | **[https://shaggy-lions-lead.loca.lt](https://shaggy-lions-lead.loca.lt)** *(Password: `185.107.56.164`)* | **ONLINE** |
